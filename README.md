@@ -4,5 +4,7 @@
 
 Anyway, hey! I'm bren/SmatMan. I'm fluent in Python, and I'm proficient in React and React Native. I have a few cool projects you might like to check out, including Scrobbli and dashing. I also maintain(ed) the a5y17lte device trees. Feel free to fork 'em!
 
+#### Keep in mind that most of my projects are under the GPTv3 Licence!
+
 [![Bren's pog GitHub stats](https://github-readme-stats.vercel.app/api?username=smatman)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
