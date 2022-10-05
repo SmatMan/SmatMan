@@ -1,4 +1,4 @@
-# i can cod
+# wsp
 
 [![Bren's pog GitHub stats](https://github-readme-stats.vercel.app/api?username=smatman)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
